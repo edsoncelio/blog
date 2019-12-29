@@ -19,8 +19,12 @@ paginate = 5
     title = "DevOps Guy"
     description = "This is my personal page"
     authorimage = "/img/profile.png"
-    dateformat = "Jan 2, 2019"
+    dateformat = "Jan 2, 2006"
 
+	
+	# Hide sidebar on all article page to let article take full width to improve reading, and enjoy wide images and cover images. (true: enable, false: disable)
+    clearReading = true
+  	
 		
     # sidebar, copyright & license
     copyright = "tuxpilgrim"
