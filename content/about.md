@@ -2,7 +2,7 @@
 title: "Edson Celio (aka tuxpilgrim)"
 ---
 
-Engenheiro da computação em formação, atualmente atuando como **analista de sistemas em Grendene S/A**. Nas horas vagas, palestra e 
+Engenheiro da computação em formação, atualmente atuando como **analista de sistemas em Grendene S/A** e membro do programa Docker Community Leaderr. Nas horas vagas, palestra e 
 e organiza eventos para a difusão da cultura DevOps pelo país. 
 
 Também é entusiasta e sempre que possível participa de discussões relacionadas
@@ -10,7 +10,7 @@ a Governança da Internet.
 
 
 ### Projetos
- * [Sobral DevOps Meetup](https://www.meetup.com/pt-BR/meetup-devops-sobral/)
+ * [Docker Sobral Meetup](https://events.docker.com/docker-sobral/)
  
 ---
 
