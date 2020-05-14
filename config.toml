@@ -2,11 +2,12 @@ baseURL = "https://edsoncelio.github.io"
 languageCode = "en-us"
 
 title = "Edson Celio"
+#title = "Welcome"
 theme = "hyde-hyde" 
 
 ## Hugo Built-in Features
-disqusShortname = "edsoncelio"
-# googleAnalytics = "your-google-analytics-id"
+disqusShortname = "personal-blog-rktwn6gwzh"
+googleAnalytics = "UA-155121170-1"
 # enableRobotsTXT = true
 
 summarylength = 20
@@ -16,11 +17,10 @@ paginate = 5
 ## Site Settings
 [params]
     author = "Edson Celio - personal page"
-    title = "DevOps Guy"
-    description = "This is my personal page"
+    #title = "DevOps Guy"
+    description = "Systems Analyst | Developer | DevOps Enthusiastic"
     authorimage = "/img/profile.png"
     dateformat = "Jan 2, 2006"
-
 	
 	# Hide sidebar on all article page to let article take full width to improve reading, and enjoy wide images and cover images. (true: enable, false: disable)
     clearReading = true
@@ -65,10 +65,10 @@ paginate = 5
     identifier = "posts"
     url = "/posts/"
 #[[menu.main]]
-#    name = "Portfolio"
-#    identifier = "portfolio"
-#    weight = 250
-#    url = "/portfolio/"
+#    name = "Posts(inglês)"
+#    identifier = "posts-en"
+#    weight = 150
+#    url = "/posts-en/"
 [[menu.main]]
     name = "About"
     identifier = "about"

@@ -1,10 +1,9 @@
 ---
-author: "Edson Celio"
-date: 2019-12-28T19:37:09-03:00
-draft: false
+date: 2018-02-28
+draft: true
 linktitle: Escrevendo testes unitários com Golang
 title: Escrevendo testes unitários com Golang
-categories: ["Development", "hugo" ]
+categories: ["dev", "2018"]
 tags: ["unit tests", "golang", "testes unitários"]
 weight: 10
 ---
@@ -15,6 +14,7 @@ Para escrever testes unitários com Golang tudo o que precisamos é importar o p
 ### Exemplo
 
 Temos um arquivo chamado `main.go` com uma função chamada `Soma()` que realiza a soma de dois números:
+
 ```
 package main
 
@@ -22,9 +22,11 @@ func Soma(x,y int) int{
   return x + y
 }
 ...
+
 ```
 
 Agora vamos escrever um teste para verificar a função `Soma()`, em um arquivo chamado `main_test.go`:
+
 ```
 package main
 
@@ -35,6 +37,7 @@ func TestSoma(t *testing.T){
   }
 }
 ```
+
 A função de teste acima, testa apenas **UM** valor por vez, para múltiplas entrada (e multiplas saída), tem-se o conceito de *test tables*:
 ```
 package main
@@ -60,6 +63,7 @@ func TestSoma(t *testing.T) {
 	}
 }
 ```
+
 Pronto, já temos o teste relacionado a função de soma. Alguma considerações gerais:
 
 * O único parâmetro requerido pela função de teste é `t *testing.T`
