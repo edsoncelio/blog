@@ -3,7 +3,7 @@ title: "Day 01 - Deploying an Ruby App from Gitlab to Heroku"
 date: 2020-01-06T20:17:02-03:00
 categories: ["2019", "devops"]
 tags: ["en","30daysofdevops","gitlabci", "heroku"]
-draft: false
+draft: true
 ---
 
 

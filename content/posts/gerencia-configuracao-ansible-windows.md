@@ -1,5 +1,5 @@
 ---
-title: "Gerência de configuração de máquinas Windows com Ansible"
+title: "Gerência de config de máquinas Windows com Ansible"
 date: 2019-04-28
 draft: false
 categories: ["infra", "2019", "devops"]

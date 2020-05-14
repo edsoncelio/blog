@@ -1,7 +1,7 @@
 ---
 title: "30 Days of Devops"
 date: 2019-12-29T19:03:04-03:00
-draft: false
+draft: true
 categories: ["2019", "devops"]
 tags: ["en","30daysofdevops"]
 ---

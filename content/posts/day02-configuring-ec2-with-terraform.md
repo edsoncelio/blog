@@ -1,7 +1,7 @@
 ---
 title: "Day 02 - Configuring a EC2 instance at AWS using Terraform"
 date: 2020-01-08
-draft: false
+draft: true
 categories: ["2019", "devops"]
 tags: ["en","30daysofdevops","terraform", "aws", "ec2"]
 ---
